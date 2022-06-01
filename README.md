@@ -8,6 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisPer12&layout=compact)](https://github.com/CrisPer12/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=plantmanager)](https://github.com/CrisPer12/plantmanager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=moveYouApp)](https://github.com/CrisPer12/moveYouApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=Proffy-Student)](https://github.com/CrisPer12/Proffy-Student)
 
 ### Tecnologias que utilizo
 <div style="display: inline-block"><br/>

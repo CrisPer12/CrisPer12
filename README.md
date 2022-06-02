@@ -22,6 +22,8 @@
     <img height="50em" align="center" alt="NodeJs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
     <img height="50em" align="center" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
     <img height="50em" align="center" alt="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png">
+    <img height="50em" align="center" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+    <img height="50em" align="center" alt="Mongo DB" src="https://static.cdnlogo.com/logos/m/30/mongodb-icon.svg">
 </div>
 
 <br>

@@ -3,13 +3,16 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-pereira-de-ramos-84b5b1150/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/cristiano-pereira-de-ramos-84b5b1150/)
 
-![Cristiano GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisPer12&show_icons=true&theme=algolia)
+<div align="">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrisPer12&show_icons=true&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisPer12&layout=compact&langs_count=7&theme=dracula"/>   
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisPer12&layout=compact)](https://github.com/CrisPer12/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=plantmanager)](https://github.com/CrisPer12/plantmanager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=moveYouApp)](https://github.com/CrisPer12/moveYouApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=Proffy-Student)](https://github.com/CrisPer12/Proffy-Student)
+<div>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=plantmanager&theme=algolia" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=moveYouApp&theme=algolia" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisPer12&repo=Proffy-Student&theme=algolia" />
+</div>
 
 ### Tecnologias que utilizo
 <div style="display: inline-block"><br/>
